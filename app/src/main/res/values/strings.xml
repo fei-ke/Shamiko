@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Shamiko</string>
+    <string name="tile_label" >Shamiko Whitelist</string>
+</resources>
